@@ -1,1 +1,2 @@
-This repository contains all the Data structure and Algorithms tasks I accomplished while taking classes at Maria Curie-Skłodowska University as Computer Science student. Every task had to pass tests by an algorithm checker.  
+This repository contains all the Data Structures and Algorithms tasks I accomplished as a Computer Science student while taking classes at Marie Curie-Skłodowska University.
+Each and every one of the tasks presented has passed tests by the algorithm checker.
