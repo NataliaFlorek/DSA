@@ -1,1 +1,1 @@
-The content of this repo is all tasks I did while taking Data Structures and Algorithms classes at Maria Curie-Skłodowska University as Computer Science student. Every task had to pass tests by an algorithm checker.  
+The content of this repository is all tasks I did while taking Data Structures and Algorithms classes at Maria Curie-Skłodowska University as Computer Science student. Every task had to pass tests by an algorithm checker.  
